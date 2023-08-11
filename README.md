@@ -1,2 +1,2 @@
 # letsUp-sql
-About the basics of sql commands 
+About the basics of sql 
